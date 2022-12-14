@@ -1,0 +1,25 @@
+{
+  "name": "new-crud",
+  "version": "1.0.0",
+  "description": "sss",
+  "main": "c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavlonovsamadar/New-CRUD.git"
+  },
+  "keywords": [
+    "ss"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavlonovsamadar/New-CRUD/issues"
+  },
+  "homepage": "https://github.com/mavlonovsamadar/New-CRUD#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
